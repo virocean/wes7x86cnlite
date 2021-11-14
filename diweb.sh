@@ -11,10 +11,10 @@
 
 # mirror settings(deb and targetddurl)
 
-export custDEBMIRROR1='https://github.com/minlearn/wes7x86cnlite/raw/master'
-export custIMGMIRROR1='https://github.com/minlearn/wes7x86cnlite/raw/master'
-#export custDEBMIRROR1='https://gitee.com/minlearn/wes7x86cnlite/raw/master'
-#export custIMGMIRROR1='https://gitee.com/minlearn/wes7x86cnlite/raw/master'
+export custDEBMIRROR1='https://github.com/virocean/wes7x86cnlite/raw/master'
+export custIMGMIRROR1='https://github.com/virocean/wes7x86cnlite/raw/master'
+#export custDEBMIRROR1='https://gitee.com/virocean/wes7x86cnlite/raw/master'
+#export custIMGMIRROR1='https://gitee.com/virocean/wes7x86cnlite/raw/master'
 # apply a fixed mirror/targetddurl selection to force override autoselectdebmirror results based on -t -m args given
 # for fix target ddurl,just -t url
 export FORCEMIRROR=''
